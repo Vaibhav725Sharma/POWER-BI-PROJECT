@@ -1,5 +1,6 @@
 ## Project Screenshots
 
+
 <h3>Page 1: Home page</h3>
 <img src="ss1.png" alt="Initial Setup" width="300">
 
